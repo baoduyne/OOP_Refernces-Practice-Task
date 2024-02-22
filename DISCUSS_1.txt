@@ -1,4 +1,13 @@
+
 -The value return:
 + Page 6 : n1.i = 5
 + Page 7 : n1.i = n2.i = 20
 + Page 9 : n = 15
+
+
+-Diffirent between each code is the assigment value from class.
++ in page 6 we can see it assign from n1.i to n2.i so it convert value integer from n2 to n1.
++ in page 7 it assign the adress of n1 to n2 , so it will henritage all element store in it.
++ in page 9 in func f() it used reference to change the value of variable n.
+
+
