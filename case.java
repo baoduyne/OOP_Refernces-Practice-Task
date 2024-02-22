@@ -1,3 +1,6 @@
+public void Case{
+  public static void main(String[] args){
+
 int day = 4;
 switch (day) {
   case 1:
@@ -22,4 +25,5 @@ switch (day) {
     System.out.println("Sunday");
     break;
 }
+  }
 // Outputs "Thursday" (day 4)
