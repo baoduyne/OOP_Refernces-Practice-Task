@@ -1,4 +1,4 @@
-public void Case{
+public class Case{
   public static void main(String[] args){
 
 int day = 4;
