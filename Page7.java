@@ -1,4 +1,5 @@
 public class Page7 {   
+  public int i;
   public static void main(String[] args)
 { 
  Page7 n1 = new Page7();
