@@ -1,4 +1,4 @@
-public class Ifelse {
+public class ifelse {
   public static void main(String[] args) {
     int time = 20;
     if (time < 18) {
